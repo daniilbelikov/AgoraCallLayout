@@ -2,10 +2,20 @@
 
 A handy library for building a grid for video calls through the Agora SDK. This will help you correctly display a grid of call participants based on a UICollectionView.
 
-Developed by Daniil Belikov.
+Created by [@daniilbelikov](https://github.com/daniilbelikov).
 
 ## Preview
 <img src="./Preview/preview.png"/>
+
+## Installation
+
+### Swift Package Manager
+
+AgoraCallLayout is available through [Swift Package Manager](https://swift.org/package-manager/). To install
+it, in Xcode 13.0 or later select `File` > `Swift Packages` > `Add Package Dependency...` and add AgoraCallLayout repository URL:
+```
+https://github.com/daniilbelikov/AgoraCallLayout.git
+```
 
 ## How it works?
 
