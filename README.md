@@ -2,9 +2,6 @@
 
 A handy library for building a grid for video calls through the Agora SDK. This will help you correctly display a grid of call participants based on a UICollectionView.
 
-Created by [@daniilbelikov](https://github.com/daniilbelikov).
-
-## Preview
 <img src="./Preview/preview.png"/>
 
 ## Installation
